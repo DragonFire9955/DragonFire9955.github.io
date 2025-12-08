@@ -88,7 +88,6 @@ nav a, #searchDiv{
 section>article {
     background-color: #7DD44A;
 
-    max-width: 800px;
     max-height: 400px;
     margin: 150px 400px 100px 400px;
     padding: 20px 50px 20px 50px;
@@ -124,7 +123,7 @@ section>div {
 section>div>p {
     text-align: center;
     width: 800px;
-    margin-left: 245px;
+    margin-left: 350px;
     padding: 20px;
     border: navy 2px dashed;
     border-radius: 25px;
