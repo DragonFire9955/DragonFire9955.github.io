@@ -12,6 +12,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
+body.iframe-light {
+  background-color: white;
+  color: black;
+}
 
 h2{
     color: navy;
